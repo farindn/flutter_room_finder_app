@@ -1,0 +1,13 @@
+C:/Projects/flutter_room_finder_app/build/windows/CMakeFiles/INSTALL.dir
+C:/Projects/flutter_room_finder_app/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Projects/flutter_room_finder_app/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Projects/flutter_room_finder_app/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Projects/flutter_room_finder_app/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Projects/flutter_room_finder_app/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Projects/flutter_room_finder_app/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Projects/flutter_room_finder_app/build/windows/runner/CMakeFiles/flutter_room_finder_app.dir
+C:/Projects/flutter_room_finder_app/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Projects/flutter_room_finder_app/build/windows/runner/CMakeFiles/ALL_BUILD.dir
+C:/Projects/flutter_room_finder_app/build/windows/plugins/url_launcher_windows/CMakeFiles/url_launcher_windows_plugin.dir
+C:/Projects/flutter_room_finder_app/build/windows/plugins/url_launcher_windows/CMakeFiles/INSTALL.dir
+C:/Projects/flutter_room_finder_app/build/windows/plugins/url_launcher_windows/CMakeFiles/ALL_BUILD.dir
