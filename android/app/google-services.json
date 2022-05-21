@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575489579469",
+    "project_id": "flutter-room-finder",
+    "storage_bucket": "flutter-room-finder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575489579469:android:cc62389b0cdcda86a4cc84",
+        "android_client_info": {
+          "package_name": "com.example.flutter_room_finder_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575489579469-ha8h8otp6029u207o36kkq4es4675qbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT5Fi2V9avplpsgajQitAzjN8XM8fUxwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575489579469-ha8h8otp6029u207o36kkq4es4675qbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
