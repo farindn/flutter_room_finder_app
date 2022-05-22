@@ -4,7 +4,7 @@
     "type": "PROCESSED_RES",
     "kind": "Directory"
   },
-  "applicationId": "com.example.flutter_room_finder_app",
+  "applicationId": "com.farindn.roomfinder",
   "variantName": "processReleaseResources",
   "elements": [
     {

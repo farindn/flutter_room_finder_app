@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:575489579469:android:cc62389b0cdcda86a4cc84",
         "android_client_info": {
-          "package_name": "com.example.flutter_room_finder_app"
+          "package_name": "com.farindn.roomfinder"
         }
       },
       "oauth_client": [
