@@ -56384,7 +56384,7 @@ A.ji.prototype={
 on(){var s=0,r=A.a2(t.z),q,p
 var $async$on=A.a3(function(a,b){if(a===1)return A.a_(b,r)
 while(true)switch(s){case 0:s=3
-return A.Z(A.aud(A.h5("http://bwa-cozy.herokuapp.com/recommended-spaces",0,null)),$async$on)
+return A.Z(A.aud(A.h5("https://bwa-cozy.herokuapp.com/recommended-spaces",0,null)),$async$on)
 case 3:p=b
 if(p.b===200){q=J.n6(B.al.Fq(0,A.au_(A.arY(p.e).c.a.j(0,"charset")).cG(0,p.x),null),new A.a_I(),t.iT).e_(0)
 s=1
